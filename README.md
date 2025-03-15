@@ -3,13 +3,14 @@
 ## About Me
 Hi there! I'm an Electrical and Computer Engineering student at **FEUP** (Faculdade de Engenharia da Universidade do Porto).
 
+
 ### Interests:
 - **Electronics:** Circuit design and PCB development.
 - **Programming:** Low level programming and embedded systems.
 
 ## My Projects
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-monteiro&layout=donut&theme=dark" alt="Top Languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-monteiro&layout=donut&theme=dark" alt="Top Languages" />
 
 | Project Name | Description | Language |
 |-------------|-------------|-------------|
@@ -17,6 +18,9 @@ Hi there! I'm an Electrical and Computer Engineering student at **FEUP** (Faculd
 | [cr](https://github.com/d-monteiro/cr) | The first Webpage I was part of developing | Javascript |
 | [palbit-dashboard](https://github.com/d-monteiro/palbit-dashboard) | A dashboard for real time data plotting | Typescript |
 | [NN](https://github.com/d-monteiro/NN) | A Neural Network implemented from scratch | C++ |
+
+<br><br>
+
 ## Get in Touch
 - **LinkedIn**: [Duarte Monteiro](https://www.linkedin.com/in/duarte-santos-monteiro/)
 - **Email**: [duartemsm26@gmail.com](mailto:duartemsm26@gmail.com)
