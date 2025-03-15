@@ -10,7 +10,7 @@ Hi there! I'm an Electrical and Computer Engineering student at **FEUP** (Faculd
 
 ## My Projects
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-monteiro&layout=donut&theme=dark" alt="Top Languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-monteiro&layout=donut&theme=dark" alt="Top Languages" style="margin-bottom: 20px;"/>
 
 | Project Name | Description | Language |
 |-------------|-------------|-------------|
