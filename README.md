@@ -8,11 +8,14 @@ Hi there! I'm an Electrical and Computer Engineering student at **FEUP** (Faculd
 - **Programming:** Low level programming and embedded systems.
 
 ## My Projects
-Here are some of the projects I've worked on or am currently working on:
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-monteiro&layout=donut&theme=dark" alt="Top Languages" />
 
-- **[FPGA](https://github.com/d-monteiro/FPGA)**: Some Verilog and VHDL projects, including an implementation of a RISC-V CPU.
-- **[cr](https://github.com/d-monteiro/cr)**: The first Webpage I was part of developing.
-- **[palbit-dashboard](https://github.com/d-monteiro/palbit-dashboard)**: A dashboard for real time data plotting.
+| Project Name | Description | Development |
+|--------------|-------------|-------------|
+| **[FPGA](https://github.com/d-monteiro/FPGA)** | Some Verilog and VHDL projects. | VHDL/Verilog |
+| **[cr](https://github.com/d-monteiro/cr)** | The first Webpage I was part of developing. | Javascript |
+| **[palbit-dashboard](https://github.com/d-monteiro/palbit-dashboard)** | A dashboard for real time data plotting | Typescript |
+| **[NN](https://github.com/d-monteiro/NN)** | A Neural Network implementation from scratch | C++ |
 
 
 ## Get in Touch
@@ -21,12 +24,17 @@ Here are some of the projects I've worked on or am currently working on:
 
 
 <!--
+
+| **[PROG](https://github.com/d-monteiro/PROG)** | FEUP Class to learn C | C |
+| **[ESDA](https://github.com/d-monteiro/ESDA)** | FEUP Class to learn C++ and Algorithms | C++ |
+
 ## Hi there 👋
 
 
 **d-monteiro/d-monteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
