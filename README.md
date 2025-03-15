@@ -10,7 +10,7 @@ Hi there! I'm an Electrical and Computer Engineering student at **FEUP** (Faculd
 
 ## My Projects
 
-<img height=185 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-monteiro&layout=donut&theme=dark&card_width=185" alt="Top Languages"/>
+<img height=185 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-monteiro&layout=donut&theme=dark&card_width=175" alt="Top Languages"/>
 
 
 | Project Name | Description | Language |
@@ -35,6 +35,7 @@ Hi there! I'm an Electrical and Computer Engineering student at **FEUP** (Faculd
 **d-monteiro/d-monteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 
 - 🔭 I’m currently working on ...
