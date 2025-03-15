@@ -10,9 +10,8 @@ Hi there! I'm an Electrical and Computer Engineering student at **FEUP** (Faculd
 
 ## My Projects
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-monteiro&layout=donut&theme=dark" alt="Top Languages" style="margin-bottom: 20px;"/>
+<img height=185 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-monteiro&layout=donut&theme=dark&card_width=200" alt="Top Languages"/>
 
-<br><br>
 
 | Project Name | Description | Language |
 |-------------|-------------|-------------|
@@ -22,9 +21,8 @@ Hi there! I'm an Electrical and Computer Engineering student at **FEUP** (Faculd
 | [NN](https://github.com/d-monteiro/NN) | A Neural Network implemented from scratch | C++ |
 
 ## Get in Touch
-- **LinkedIn**: [Duarte Monteiro](https://www.linkedin.com/in/duarte-santos-monteiro/)
-- **Email**: [duartemsm26@gmail.com](mailto:duartemsm26@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duarte-santos-monteiro/)
+<a style="text-decoration: none;" href="mailto:duartemsm26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <!--
 
