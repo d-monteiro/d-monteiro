@@ -12,14 +12,14 @@ Hi there! I'm an Electrical and Computer Engineering student at **FEUP** (Faculd
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-monteiro&layout=donut&theme=dark" alt="Top Languages" style="margin-bottom: 20px;"/>
 
+<br><br>
+
 | Project Name | Description | Language |
 |-------------|-------------|-------------|
 | [FPGA](https://github.com/d-monteiro/FPGA) | Some Verilog and VHDL projects | VHDL/Verilog |
 | [cr](https://github.com/d-monteiro/cr) | The first Webpage I was part of developing | Javascript |
 | [palbit-dashboard](https://github.com/d-monteiro/palbit-dashboard) | A dashboard for real time data plotting | Typescript |
 | [NN](https://github.com/d-monteiro/NN) | A Neural Network implemented from scratch | C++ |
-
-<br><br>
 
 ## Get in Touch
 - **LinkedIn**: [Duarte Monteiro](https://www.linkedin.com/in/duarte-santos-monteiro/)
