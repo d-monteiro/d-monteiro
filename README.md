@@ -18,7 +18,7 @@ Hi there! I'm an Electrical and Computer Engineering student at **FEUP** (Faculd
 | Project Name | Description | Language |
 |-------------|-------------|-------------|
 | [FPGA](https://github.com/d-monteiro/FPGA) | Some Verilog and VHDL projects | VHDL/Verilog |
-| [ML](https://github.com/d-monteiro/ML) | A Random Forest Classifier to predict football match outcomes | Python |
+| [ML](https://github.com/d-monteiro/ML) | A RFC to predict football match outcomes | Python |
 | [palbit-dashboard](https://github.com/d-monteiro/palbit-dashboard) | A dashboard for real time data plotting | Typescript |
 | [NN](https://github.com/d-monteiro/NN) | A Neural Network implemented from scratch | C++ |
 | [tetris](https://github.com/d-monteiro/tetris) | Tetris implemented in C++ using SDL2 | C++ |
